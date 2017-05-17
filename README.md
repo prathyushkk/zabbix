@@ -1,2 +1,2 @@
-# zabbix
+# Zabbix
 Scripts to discovery
