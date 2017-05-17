@@ -1,0 +1,2 @@
+# zabbix
+Scripts to discovery
